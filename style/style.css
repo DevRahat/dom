@@ -8,3 +8,6 @@ h1{
 .importent-places{
     color: blueviolet;
 }
+.yellow-bg{
+    background-color: yellow !important;
+}
